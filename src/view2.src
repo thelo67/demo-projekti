@@ -1,4 +1,4 @@
-html
+Xtml
   head View2
   body
     h1= content-variable
