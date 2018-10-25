@@ -1,5 +1,6 @@
 var mongoose = require('mongoose')
-var Movie = require('../models/user');
+
+var Film = require('../models/user');
 
 module.exports.controller = function(app) {
 
